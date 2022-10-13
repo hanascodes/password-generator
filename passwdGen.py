@@ -1,3 +1,5 @@
+# disclaimer: most of code taken from https://geekflare.com/password-generator-python-code/
+# adjusted for my own personal use
 # necessary imports
 import secrets
 import string
